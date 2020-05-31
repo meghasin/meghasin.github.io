@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-  </url>
-  
-  <url>
     <loc>/authors/</loc>
   </url>
   
@@ -15,11 +11,31 @@
   </url>
   
   <url>
+    <loc>/education/</loc>
+  </url>
+  
+  <url>
+    <loc>/experience/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
     <loc>/author/meghamala-sinha/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/education/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/experience/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/others/</loc>
   </url>
   
   <url>
@@ -31,7 +47,7 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/news/</loc>
   </url>
   
   <url>
