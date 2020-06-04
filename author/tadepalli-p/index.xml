@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tadepalli P | Meghamala Sinha</title>
+    <link>/author/tadepalli-p/</link>
+      <atom:link href="/author/tadepalli-p/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tadepalli P</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 23:24:48 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tadepalli P</title>
+      <link>/author/tadepalli-p/</link>
+    </image>
+    
+    <item>
+      <title>Pooling vs Voting: An Empirical Study of Learning Causal Structures</title>
+      <link>/publication/pooling-vs-voting-an-empirical-study-of-learning-causal-structures/</link>
+      <pubDate>Sat, 01 Jun 2019 23:24:48 -0700</pubDate>
+      <guid>/publication/pooling-vs-voting-an-empirical-study-of-learning-causal-structures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,15 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/author/and-ramsey.-s/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sinha.-m/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tadepalli.-p/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/voting-based-integration-algorithm-improves-causal-network-learning-from-interventional-and-observational-data-an-application-to-cell-signaling-network-inference/</loc>
+    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2019-06-01T23:24:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/pooling-vs-voting-an-empirical-study-of-learning-causal-structures/</loc>
+    <lastmod>2019-06-01T23:24:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ramsey-s/</loc>
+    <lastmod>2019-06-01T23:24:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sinha-m/</loc>
+    <lastmod>2019-06-01T23:24:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tadepalli-p/</loc>
+    <lastmod>2019-06-01T23:24:48-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/8/</loc>
+    <lastmod>2017-06-01T23:25:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chatterjee-d/</loc>
+    <lastmod>2017-06-01T23:25:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/method-and-system-for-detection-and-analysis-of-cognitive-flow/</loc>
+    <lastmod>2017-06-01T23:25:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/saha-s-k/</loc>
+    <lastmod>2017-06-01T23:25:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sinha-a/</loc>
+    <lastmod>2017-06-01T23:25:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chakraborty-b/</loc>
+    <lastmod>2016-06-01T23:27:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/student-evaluation-model-using-bayesian-network-in-an-intelligent-e-learning-system/</loc>
+    <lastmod>2016-06-01T23:27:54-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/a-probabilistic-approach-for-detection-and-analysis-of-cognitive-flow/</loc>
+    <lastmod>2016-06-01T23:26:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
   <url>
@@ -20,14 +122,6 @@
   
   <url>
     <loc>/others/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
   <url>

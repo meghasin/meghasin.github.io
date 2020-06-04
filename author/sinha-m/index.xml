@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sinha M | Meghamala Sinha</title>
+    <link>/author/sinha-m/</link>
+      <atom:link href="/author/sinha-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sinha M</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 23:24:48 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Sinha M</title>
+      <link>/author/sinha-m/</link>
+    </image>
+    
+    <item>
+      <title>Pooling vs Voting: An Empirical Study of Learning Causal Structures</title>
+      <link>/publication/pooling-vs-voting-an-empirical-study-of-learning-causal-structures/</link>
+      <pubDate>Sat, 01 Jun 2019 23:24:48 -0700</pubDate>
+      <guid>/publication/pooling-vs-voting-an-empirical-study-of-learning-causal-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and System for Detection and Analysis of Cognitive Flow</title>
+      <link>/publication/method-and-system-for-detection-and-analysis-of-cognitive-flow/</link>
+      <pubDate>Thu, 01 Jun 2017 23:25:45 -0700</pubDate>
+      <guid>/publication/method-and-system-for-detection-and-analysis-of-cognitive-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student Evaluation Model Using Bayesian Network in an Intelligent E Learning System</title>
+      <link>/publication/student-evaluation-model-using-bayesian-network-in-an-intelligent-e-learning-system/</link>
+      <pubDate>Wed, 01 Jun 2016 23:27:54 -0700</pubDate>
+      <guid>/publication/student-evaluation-model-using-bayesian-network-in-an-intelligent-e-learning-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Approach for Detection and Analysis of Cognitive Flow</title>
+      <link>/publication/a-probabilistic-approach-for-detection-and-analysis-of-cognitive-flow/</link>
+      <pubDate>Wed, 01 Jun 2016 23:26:46 -0700</pubDate>
+      <guid>/publication/a-probabilistic-approach-for-detection-and-analysis-of-cognitive-flow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

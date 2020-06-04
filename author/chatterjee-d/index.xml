@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chatterjee D | Meghamala Sinha</title>
+    <link>/author/chatterjee-d/</link>
+      <atom:link href="/author/chatterjee-d/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chatterjee D</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 23:25:45 -0700</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chatterjee D</title>
+      <link>/author/chatterjee-d/</link>
+    </image>
+    
+    <item>
+      <title>Method and System for Detection and Analysis of Cognitive Flow</title>
+      <link>/publication/method-and-system-for-detection-and-analysis-of-cognitive-flow/</link>
+      <pubDate>Thu, 01 Jun 2017 23:25:45 -0700</pubDate>
+      <guid>/publication/method-and-system-for-detection-and-analysis-of-cognitive-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Approach for Detection and Analysis of Cognitive Flow</title>
+      <link>/publication/a-probabilistic-approach-for-detection-and-analysis-of-cognitive-flow/</link>
+      <pubDate>Wed, 01 Jun 2016 23:26:46 -0700</pubDate>
+      <guid>/publication/a-probabilistic-approach-for-detection-and-analysis-of-cognitive-flow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

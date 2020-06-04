@@ -5,12 +5,52 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Meghamala Sinha</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Meghamala Sinha</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Voting-based integration algorithm improves causal network learning from interventional and observational data: an application to cell signaling network inference</title>
+      <link>/publication/voting-based-integration-algorithm-improves-causal-network-learning-from-interventional-and-observational-data-an-application-to-cell-signaling-network-inference/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/voting-based-integration-algorithm-improves-causal-network-learning-from-interventional-and-observational-data-an-application-to-cell-signaling-network-inference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pooling vs Voting: An Empirical Study of Learning Causal Structures</title>
+      <link>/publication/pooling-vs-voting-an-empirical-study-of-learning-causal-structures/</link>
+      <pubDate>Sat, 01 Jun 2019 23:24:48 -0700</pubDate>
+      <guid>/publication/pooling-vs-voting-an-empirical-study-of-learning-causal-structures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and System for Detection and Analysis of Cognitive Flow</title>
+      <link>/publication/method-and-system-for-detection-and-analysis-of-cognitive-flow/</link>
+      <pubDate>Thu, 01 Jun 2017 23:25:45 -0700</pubDate>
+      <guid>/publication/method-and-system-for-detection-and-analysis-of-cognitive-flow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Student Evaluation Model Using Bayesian Network in an Intelligent E Learning System</title>
+      <link>/publication/student-evaluation-model-using-bayesian-network-in-an-intelligent-e-learning-system/</link>
+      <pubDate>Wed, 01 Jun 2016 23:27:54 -0700</pubDate>
+      <guid>/publication/student-evaluation-model-using-bayesian-network-in-an-intelligent-e-learning-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Probabilistic Approach for Detection and Analysis of Cognitive Flow</title>
+      <link>/publication/a-probabilistic-approach-for-detection-and-analysis-of-cognitive-flow/</link>
+      <pubDate>Wed, 01 Jun 2016 23:26:46 -0700</pubDate>
+      <guid>/publication/a-probabilistic-approach-for-detection-and-analysis-of-cognitive-flow/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
