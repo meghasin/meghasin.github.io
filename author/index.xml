@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meghamala Sinha</title>
+    <link>/author/</link>
+      <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meghamala Sinha</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/avatar_hu373e3df16d7b4c2afba117d9b4471912_161721_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Meghamala Sinha</title>
+      <link>/author/</link>
+    </image>
+    
+  </channel>
+</rss>
